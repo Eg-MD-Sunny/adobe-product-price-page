@@ -1,18 +1,18 @@
-Using Method:\
+Using Method:
 =============
 01.==>React Image Import.\
 02.==>Similar In Look & Different In Data.\
 03.==>Props Data Pass and Receive.\
 04.==>Dynamic Data Load.\
 05.==>Import Image, Access object & UI.\
-06.==>Dynamic Style Using CSS.\
+06.==>Dynamic Style Using CSS.
 
-Project Deploy:\
+Project Deploy:
 ===============
 01.==>GitHub \
 02.==>Netlify \ 
 
-LIVE LINK:\
+LIVE LINK:
 ===========
 https://peaceful-hodgkin-e3715f.netlify.app/
 
