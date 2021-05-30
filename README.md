@@ -10,7 +10,7 @@ Using Method:
 Project Deploy:
 ===============
 01.==>GitHub \
-02.==>Netlify \ 
+02.==>Netlify 
 
 LIVE LINK:
 ===========
