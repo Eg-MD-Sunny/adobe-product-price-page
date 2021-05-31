@@ -14,7 +14,7 @@ Project Deploy:
 
 LIVE LINK:
 ===========
-https://peaceful-hodgkin-e3715f.netlify.app/
+https://adobe-price-page.netlify.app/
 
 
 ### `npm start`
